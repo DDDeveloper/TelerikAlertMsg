@@ -10,6 +10,7 @@
     </AjaxSettings>
 </telerik:RadAjaxManagerProxy>
 <telerik:RadAjaxLoadingPanel ID="RadAjaxLoadingPanel1" runat="server" Skin="Default"></telerik:RadAjaxLoadingPanel>
+<telerik:RadWindowManager ID="RadWindowManager1" runat="server"></telerik:RadWindowManager>
 <telerik:RadAjaxPanel ID="RadAjaxPanel1" runat="server" Height="100%" Width="100%" HorizontalAlign="NotSet" LoadingPanelID="RadAjaxLoadingPanel1" EnableAriaSupport="True">
 
 </telerik:RadAjaxPanel>
