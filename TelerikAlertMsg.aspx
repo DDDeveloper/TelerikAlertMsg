@@ -1,4 +1,4 @@
-<script src="js/TelerikPopup.js"></script>
+<script src="js/TelerikAlertMsg.js"></script>
 
 <telerik:RadAjaxManagerProxy ID="RadAjaxManagerProxy1" runat="server">
     <AjaxSettings>
