@@ -1,0 +1,2 @@
+# TelerikAlertMsg
+Telerik Alert Msg
