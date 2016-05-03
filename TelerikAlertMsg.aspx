@@ -1,3 +1,5 @@
+<script src="js/TelerikPopup.js"></script>
+
 <telerik:RadAjaxManagerProxy ID="RadAjaxManagerProxy1" runat="server">
     <AjaxSettings>
         <telerik:AjaxSetting AjaxControlID="RadAjaxPanel1">
